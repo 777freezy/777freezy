@@ -27,5 +27,5 @@
   
 </div>
 
-  ![Snake animation](https://github.com/ellen2121/777freezy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/777freezy/blob/output/github-contribution-grid-snake.svg)
 
