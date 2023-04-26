@@ -2,7 +2,7 @@
 
 - 🚀 Hoje trabalho com Front-end e Back-end
 - 🎓 Estudando NodeJS
-- 🧑‍💻 Programando des dos 13 anos
+- 🧑‍💻 Programando des dos 11 anos
 
 
 <div>
