@@ -2,7 +2,7 @@
 
 - 🚀 Hoje trabalho com Front-end e Back-end
 - 🎓 Dev Fullstack!
-- 🧑‍💻 Programando des dos 11 anos
+- 🧑‍💻 Programando des dos 12 anos
 
 
 <div>
